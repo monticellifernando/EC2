@@ -13,9 +13,15 @@ Cada grupo pone su código en la carpeta que le corresponde.
 
 Usando git!!
 
+Hay dos protocolos para hacer esto. 
+
+SSH:
 ``` git clone git@github.com:monticellifernando/EC2.git ```
 
-Ahí tienen todo. Cuando ponen su código hacen commit y lo mandan. 
+ó HTTPS:
+``` git clone https://github.com/monticellifernando/EC2.git ```
+
+Elegí el que quieras. Ahí tienen todo. Cuando ponen su código hacen commit y lo mandan. 
 
 Recordar *SIEMPRE* hacer git pull para obtener la versión más actualizada del código en tu repositorio local!
 
