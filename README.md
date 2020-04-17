@@ -23,6 +23,15 @@ SSH:
 
 Elegí el que quieras. Ahí tienen todo. Cuando ponen su código hacen commit y lo mandan. 
 
+* IMPORTANTE *:
+
+Todos los comandos git hay que ejecutarlos *DENTRO* de la carpeta donte está el repositorio. 
+
+```
+cd EC2
+```
+
+
 Recordar *SIEMPRE* hacer git pull para obtener la versión más actualizada del código en tu repositorio local!
 
 ```
