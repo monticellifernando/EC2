@@ -21,3 +21,11 @@ Ahí tienen todo. Cuando ponen su código hacen commit y lo mandan
 git add <myPath/MyFile>
 git commit -m "Un comentario"
 ```
+
+Ahora con su repositorio lo sincronizan en github
+
+```
+git push
+```
+
+Y listo!!!
