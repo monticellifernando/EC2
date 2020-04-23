@@ -56,3 +56,4 @@ Y listo!!!
 
 
 
+Nota: No es necesario hacer un fork. Si no pueden hacer un push escriban para que los agreguemos como colaboradores.
